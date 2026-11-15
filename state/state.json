@@ -1,0 +1,1280 @@
+{
+ "products": {
+  "10071671111972": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "xi-gui-ancient-tree-raw-puer-tea",
+   "title": "Xi Gui (昔归) Ancient Tree Raw Pu’er Tea – Manglu Mountain, Lincang",
+   "variants": {
+    "50632329888036": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "50.00",
+     "qty": 10,
+     "status": "low_stock",
+     "stock_text": "Low stock: 10 left",
+     "title": "2024 / Jar (12pcs x 8g)"
+    }
+   }
+  },
+  "10071683006756": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "fu-brick-tea-golden-flowers",
+   "title": "Fu Brick Tea with Golden Flowers (金花茯砖茶) – Cha Zhi Ji × Hui He Tang",
+   "variants": {
+    "50632363671844": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "213.00",
+     "qty": 20,
+     "status": "in_stock",
+     "stock_text": "20 in stock",
+     "title": "2014 / Whole Brick (780g)"
+    },
+    "50632363704612": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "270.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2012 / Whole Brick (780g)"
+    },
+    "50632363737380": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "471.00",
+     "qty": 19,
+     "status": "in_stock",
+     "stock_text": "19 in stock",
+     "title": "2010 / Whole Brick (780g)"
+    }
+   }
+  },
+  "10071683727652": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "gao-ma-ming-zhu-jin-hua-hei-cha",
+   "title": "Gao Ma Ming Zhu Jin Hua Hei Cha",
+   "variants": {
+    "50632366194980": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "62.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2019 / Box (14pcs x 8g)"
+    },
+    "56016946626852": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "62.00",
+     "qty": 48,
+     "status": "in_stock",
+     "stock_text": "48 in stock",
+     "title": "2023 / Box (14pcs x 8g)"
+    }
+   }
+  },
+  "10077405118756": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "jingmai-zhengshan-sheng-pu-erh-2023",
+   "title": "Jingmai Zhengshan Ancient Tree Sheng Pu-erh (2023)",
+   "variants": {
+    "50650746650916": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "72.00",
+     "qty": 4,
+     "status": "low_stock",
+     "stock_text": "Low stock: 4 left",
+     "title": "2023 / Whole Cake (357g)"
+    }
+   }
+  },
+  "10100283801892": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "pu-tian-gong-qing-aged-liu-bao-tea",
+   "title": "[Cha Zhi Ji] Pu Tian Gong Qing (普天共庆) – Aged Liu Bao Tea in Purple Clay Jar | 1950s Style",
+   "variants": {
+    "50760684732708": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "6714.00",
+     "qty": 1,
+     "status": "low_stock",
+     "stock_text": "Low stock: 1 left",
+     "title": "Default Title"
+    }
+   }
+  },
+  "10101514338596": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "daxinhang-1950s-liu-bao-tea",
+   "title": "Daxinhang 1950s Liu Bao Tea (Aged Hong Kong Merchant Series, Purple Clay Canister)",
+   "variants": {
+    "50764032672036": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "6714.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "Default Title"
+    }
+   }
+  },
+  "10102553379108": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "fuhua-hao-1950s-liu-bao-tea-125g",
+   "title": "Fuhua Hao 1950s Aged Liu Bao Tea (125g) – Porcelain Jar, Aged in Malaysia",
+   "variants": {
+    "50767140520228": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "6135.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "Default Title"
+    }
+   }
+  },
+  "10103420551460": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "vive-1980s-liu-bao-tea-125g",
+   "title": "VIVE – 1980s Liu Bao Tea (Special Grade, 125g)",
+   "variants": {
+    "50770526175524": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "2000.00",
+     "qty": 1,
+     "status": "low_stock",
+     "stock_text": "Low stock: 1 left",
+     "title": "Default Title"
+    }
+   }
+  },
+  "10103432610084": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "sshc-1970s-liu-bao-tea-purple-clay-jar-125g",
+   "title": "SSHC Liu Bao Tea – 1970s “Betel Nut Double Star” (125g, Purple Clay Jar)",
+   "variants": {
+    "50770557993252": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "3000.00",
+     "qty": 1,
+     "status": "low_stock",
+     "stock_text": "Low stock: 1 left",
+     "title": "Default Title"
+    }
+   }
+  },
+  "10156446777636": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "yongchun-shui-xian-old-bush-oolong",
+   "title": "Cha Zhi Ji – Yongchun Shui Xian Oolong (Hundred-Year Old Bush, Medium Roast)",
+   "variants": {
+    "50990488092964": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "48.00",
+     "qty": 2,
+     "status": "low_stock",
+     "stock_text": "Low stock: 2 left",
+     "title": "Box (75g)"
+    }
+   }
+  },
+  "8815015526692": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "qian-gu-ling-ya-pu-erh-tea",
+   "title": "Cha Zhi Ji – Qian Gu Ling Ya Raw Pu-erh Tea (Ancient Spirit Buds)",
+   "variants": {
+    "47516202991908": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "750.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2015 / Whole Cake (400g)"
+    },
+    "47548772450596": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "725.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2016 / Whole Cake (400g)"
+    },
+    "47548772483364": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "700.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2017 / Whole Cake (400g)"
+    },
+    "47548772516132": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "675.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2018 / Whole Cake (400g)"
+    },
+    "47548772548900": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "615.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2019 / Whole Cake (400g)"
+    },
+    "47548772581668": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "590.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2020 / Whole Cake (400g)"
+    },
+    "47548772614436": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "565.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2021 / Whole Cake (400g)"
+    },
+    "47548772647204": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "540.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2022 / Whole Cake (400g)"
+    },
+    "47773656154404": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "515.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2023 / Whole Cake (400g)"
+    },
+    "50787816440100": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "490.00",
+     "qty": 4,
+     "status": "low_stock",
+     "stock_text": "Low stock: 4 left",
+     "title": "2024 / Whole Cake (400g)"
+    }
+   }
+  },
+  "8845968408868": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-beidou-no1",
+   "title": "Cha Zhi Ji – Wuyi Rock Tea Beidou No.1 (北斗一号)",
+   "variants": {
+    "52509357637924": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "324.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8845970342180": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-tie-luo-han",
+   "title": "Cha Zhi Ji – Wuyi Rock Tea Tie Luo Han (铁罗汉)",
+   "variants": {
+    "52509570629924": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "180.00",
+     "qty": 3,
+     "status": "low_stock",
+     "stock_text": "Low stock: 3 left",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8845971128612": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-shui-jin-gui",
+   "title": "Cha Zhi Ji – Wuyi Rock Tea Shui Jin Gui (水金龟)",
+   "variants": {
+    "52509517938980": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "180.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8845980074276": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-bai-ji-guan",
+   "title": "Cha Zhi Ji – Wuyi Rock Tea Bai Ji Guan (白鸡冠)",
+   "variants": {
+    "52509454827812": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "180.00",
+     "qty": 4,
+     "status": "low_stock",
+     "stock_text": "Low stock: 4 left",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8845985972516": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-jin-suo-shi",
+   "title": "Cha Zhi Ji Wuyi Rock Tea – Jin Suo Shi (金锁匙)",
+   "variants": {
+    "52509811573028": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "136.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8845987053860": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-lao-jun-mei",
+   "title": "Cha Zhi Ji Wuyi Rock Tea – Lao Jun Mei (老君眉)",
+   "variants": {
+    "52509811147044": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "136.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8845987840292": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-bu-zhi-chun",
+   "title": "Cha Zhi Ji Wuyi Rock Tea – Bu Zhi Chun (不知春 / Wuyi Que She)",
+   "variants": {
+    "52509788733732": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "136.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8845988364580": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-bai-rui-xiang",
+   "title": "Cha Zhi Ji Wuyi Rock Tea – Bai Rui Xiang (白瑞香)",
+   "variants": {
+    "52509719396644": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "136.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8845989019940": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-floral-rou-gui",
+   "title": "Cha Zhi Ji Wuyi Rock Tea – Floral Rou Gui (花香肉桂)",
+   "variants": {
+    "52509812162852": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "109.00",
+     "qty": 7,
+     "status": "low_stock",
+     "stock_text": "Low stock: 7 left",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8845989642532": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-lao-cong-shui-xian",
+   "title": "Cha Zhi Ji Wuyi Rock Tea – Lao Cong Shui Xian (老丛水仙)",
+   "variants": {
+    "52509811769636": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "95.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8845990887716": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-selected-rou-gui",
+   "title": "Cha Zhi Ji Wuyi Rock Tea – Selected Rou Gui (精选肉桂)",
+   "variants": {
+    "52509812293924": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "86.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8845991477540": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-selected-shui-xian",
+   "title": "Cha Zhi Ji Wuyi Rock Tea – Selected Shui Xian (精选水仙)",
+   "variants": {
+    "52509812490532": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "58.00",
+     "qty": 4,
+     "status": "low_stock",
+     "stock_text": "Low stock: 4 left",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8872547385636": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "whole-leaf-puerh-tea-bag-golden-series-cha-zhi-ji",
+   "title": "Whole Leaf Pyramid Tea Bag – Golden Series (Pu-erh) | Cha Zhi Ji",
+   "variants": {
+    "47516199059748": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "11.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "Box (2g x 10 pack)"
+    }
+   }
+  },
+  "8872550367524": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "whole-leaf-liu-bao-tea-bag-golden-series-cha-zhi-ji",
+   "title": "Whole Leaf Pyramid Tea Bag – Golden Series (Liu Bao) | Cha Zhi Ji",
+   "variants": {
+    "47516187787556": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "11.00",
+     "qty": 10,
+     "status": "low_stock",
+     "stock_text": "Low stock: 10 left",
+     "title": "Box (2g x 10 pack)"
+    }
+   }
+  },
+  "8872551285028": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "whole-leaf-green-tea-bag-golden-series-cha-zhi-ji",
+   "title": "Whole Leaf Pyramid Tea Bag – Golden Series (Green Tea) | Cha Zhi Ji",
+   "variants": {
+    "47516146008356": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "11.00",
+     "qty": 9,
+     "status": "low_stock",
+     "stock_text": "Low stock: 9 left",
+     "title": "Box (2g x 10 pack)"
+    }
+   }
+  },
+  "8873691087140": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "whole-leaf-shuixian-tea-bag-golden-series-cha-zhi-ji",
+   "title": "Whole Leaf Pyramid Tea Bag – Golden Series (Shuixian) | Cha Zhi Ji",
+   "variants": {
+    "47516173795620": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "13.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "Box (2g x 10 pack)"
+    }
+   }
+  },
+  "8873697280292": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "black-tea-tea-bag-golden-series-cha-zhi-ji",
+   "title": "Whole Leaf Pyramid Tea Bag – Golden Series (Black Tea) | Cha Zhi Ji",
+   "variants": {
+    "47516133523748": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "11.00",
+     "qty": 9,
+     "status": "low_stock",
+     "stock_text": "Low stock: 9 left",
+     "title": "Box (2g x 10 pack)"
+    }
+   }
+  },
+  "8879261843748": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "black-tea-ginger-tea-bag-golden-series-cha-zhi-ji",
+   "title": "Whole Leaf Pyramid Tea Bag – Golden Series (Black Tea with Ginger) | Cha Zhi Ji",
+   "variants": {
+    "47516143059236": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "14.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "Box (2g x 10 pack)"
+    }
+   }
+  },
+  "8879262400804": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "chrysanthemum-puerh-tea-bag-golden-series-cha-zhi-ji",
+   "title": "Whole Leaf Pyramid Tea Bag – Golden Series (Chrysanthemum Pu-erh) | Cha Zhi Ji",
+   "variants": {
+    "47516141158692": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "17.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "Box (2g x 10 pack)"
+    }
+   }
+  },
+  "8879263318308": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "whole-leaf-jinqianliu-tea-bag-golden-series-cha-zhi-ji",
+   "title": "Whole Leaf Pyramid Tea Bag – Golden Series (Jinqianliu) | Cha Zhi Ji",
+   "variants": {
+    "47516170649892": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "19.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "Box (2g x 10 pack)"
+    }
+   }
+  },
+  "8885729165604": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "yuan-bao-liu-bao-tea-2000s",
+   "title": "Cha Zhi Ji – Yuan Bao: Woody-Aged Liu Bao Tea (2000s) | Malaysian Vault Collection",
+   "variants": {
+    "47516210004260": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "86.00",
+     "qty": 1,
+     "status": "low_stock",
+     "stock_text": "Low stock: 1 left",
+     "title": "Box (150g)"
+    }
+   }
+  },
+  "8885772255524": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "si-bao-liu-bao-tea-1980s",
+   "title": "Cha Zhi Ji – Si Bao: Ginseng-Aged Liu Bao Tea (1980s) | Malaysian Vault Collection",
+   "variants": {
+    "47516204532004": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "471.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "Box (150g)"
+    }
+   }
+  },
+  "8885874950436": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "ma-bao-liu-bao-tea-1990s",
+   "title": "Cha Zhi Ji – Ma Bao: Areca Nut Aged Liu Bao Tea (1990s) | Malaysian Vault Collection",
+   "variants": {
+    "47516189425956": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "199.00",
+     "qty": 7,
+     "status": "low_stock",
+     "stock_text": "Low stock: 7 left",
+     "title": "Bag (150g)"
+    }
+   }
+  },
+  "8885877965092": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "auspicious-liu-bao-tea-2000s",
+   "title": "Cha Zhi Ji – Auspicious: Traditionally-Processed Liu Bao Tea (2000s) | Malaysian Aged, Thick & Bold",
+   "variants": {
+    "47516223340836": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "90.00",
+     "qty": 4,
+     "status": "low_stock",
+     "stock_text": "Low stock: 4 left",
+     "title": "Box (150g)"
+    }
+   }
+  },
+  "8885880455460": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "celebration-liu-bao-tea-1980s",
+   "title": "Cha Zhi Ji – Celebration: Traditionally-Processed Liu Bao Tea (Late 1980s) | Malaysian Aged, Light & Refined",
+   "variants": {
+    "47516224225572": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "324.00",
+     "qty": 3,
+     "status": "low_stock",
+     "stock_text": "Low stock: 3 left",
+     "title": "Box (150g)"
+    }
+   }
+  },
+  "8885884911908": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "jubilee-liu-bao-tea-2010s",
+   "title": "Cha Zhi Ji – Jubilee: Traditionally-Processed Liu Bao Tea (2010s) | Malaysian Aged",
+   "variants": {
+    "47516105474340": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "47.00",
+     "qty": 1,
+     "status": "low_stock",
+     "stock_text": "Low stock: 1 left",
+     "title": "Box (150g)"
+    }
+   }
+  },
+  "8885888188708": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "congratulation-liu-bao-tea-1990s",
+   "title": "Cha Zhi Ji – “Congratulation” Liu Bao Tea (Mid-1990s) | Malaysian Aged, Classic Mellow Style",
+   "variants": {
+    "47516226552100": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "236.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "Box (150g)"
+    }
+   }
+  },
+  "8885897265444": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "liang-liu-bao-tea-2000s",
+   "title": "Cha Zhi Ji – Liang Liu Bao Tea (2000s) | Areca Nut Aroma Aged in Malaysia",
+   "variants": {
+    "47516187001124": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "45.00",
+     "qty": 4,
+     "status": "low_stock",
+     "stock_text": "Low stock: 4 left",
+     "title": "Box (150g)"
+    }
+   }
+  },
+  "8888734155044": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "zheng-gua-feng-zhai-pu-erh-tea",
+   "title": "Cha Zhi Ji – Zheng Gua Feng Zhai Raw Pu-erh Tea (Yiwu Ancient Trees)",
+   "variants": {
+    "47757883670820": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "250.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2015 / Whole Cake (400g)"
+    },
+    "47885855260964": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "183.00",
+     "qty": 8,
+     "status": "low_stock",
+     "stock_text": "Low stock: 8 left",
+     "title": "2018 / Whole Cake (200g)"
+    },
+    "47885860274468": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "350.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2012 / Whole Cake (400g)"
+    }
+   }
+  },
+  "8888735465764": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "qi-sheng-gu-pu-erh-2012",
+   "title": "Cha Zhi Ji – Qi Sheng Gu Raw Pu-erh Tea (2012 Wild Ancient Trees)",
+   "variants": {
+    "47516201451812": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "203.00",
+     "qty": 8,
+     "status": "low_stock",
+     "stock_text": "Low stock: 8 left",
+     "title": "Whole Cake (400g)"
+    }
+   }
+  },
+  "8888735924516": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "yiwu-zhengshan-pu-erh-2008",
+   "title": "Cha Zhi Ji – Yiwu Zhengshan Raw Pu-erh Tea (2008 Vintage)",
+   "variants": {
+    "47516208267556": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "371.00",
+     "qty": 7,
+     "status": "low_stock",
+     "stock_text": "Low stock: 7 left",
+     "title": "Whole Cake (400g) / Old Trunk (~300 years)"
+    },
+    "47801211420964": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "169.00",
+     "qty": 7,
+     "status": "low_stock",
+     "stock_text": "Low stock: 7 left",
+     "title": "Whole Cake (400g) / Young Trunk (~80 years)"
+    }
+   }
+  },
+  "8888737431844": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wu-liang-ancient-tree-pu-erh-2008",
+   "title": "Cha Zhi Ji – Wu Liang Ancient Tree Raw Pu-erh Tea (2008 High Mountain Vintage)",
+   "variants": {
+    "47516206760228": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "324.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "Whole Cake (400g)"
+    }
+   }
+  },
+  "8888737988900": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "bu-lang-zhengshan-raw-pu-erh-2008",
+   "title": "Cha Zhi Ji – Bu Lang Zhengshan Raw Pu-erh Tea (2008 Vintage)",
+   "variants": {
+    "47516139979044": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "377.00",
+     "qty": 8,
+     "status": "low_stock",
+     "stock_text": "Low stock: 8 left",
+     "title": "Whole Cake (400g)"
+    }
+   }
+  },
+  "8888738709796": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "zhengshan-bingdao-raw-pu-erh-2019",
+   "title": "Cha Zhi Ji – Zhengshan Bingdao Raw Pu-erh Tea (2019 Mengku Ancient Village)",
+   "variants": {
+    "47516127723812": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "203.00",
+     "qty": 6,
+     "status": "low_stock",
+     "stock_text": "Low stock: 6 left",
+     "title": "Whole Cake (200g)"
+    }
+   }
+  },
+  "8905963831588": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "jing-zhi-2012",
+   "title": "Jing Zhi Shou Pu-Erh",
+   "variants": {
+    "47516173041956": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "45.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2012 / Whole Cake (357g)"
+    }
+   }
+  },
+  "8905969795364": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "lao-shu-shou-pu-erh-chang-yu-hao-2017-2021",
+   "title": "Cha Zhi Ji – Chang Yu Hao Lao Shu Shou Pu-erh Tea – 2017 / 2021 Vintage",
+   "variants": {
+    "47548785819940": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "100.00",
+     "qty": 15,
+     "status": "in_stock",
+     "stock_text": "15 in stock",
+     "title": "2017 / Whole Cake (357g)"
+    },
+    "47548785852708": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "95.00",
+     "qty": 18,
+     "status": "in_stock",
+     "stock_text": "18 in stock",
+     "title": "2021 (Organic Certified) / Whole Cake (357g)"
+    },
+    "51078068404516": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "109.00",
+     "qty": 14,
+     "status": "in_stock",
+     "stock_text": "14 in stock",
+     "title": "2016 / Whole Cake (357g)"
+    },
+    "51078068470052": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "119.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2015 / Whole Cake (357g)"
+    }
+   }
+  },
+  "8915300221220": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "ancient-tree-rock-yun-pu-erh",
+   "title": "Cha Zhi Ji – Ancient Tree Rock Yun Pu-erh Tea (Bangdong Gushu 250+ Years)",
+   "variants": {
+    "47548706423076": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "166.00",
+     "qty": 3,
+     "status": "low_stock",
+     "stock_text": "Low stock: 3 left",
+     "title": "2023 / Whole Cake (200g)"
+    }
+   }
+  },
+  "8915306381604": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "zheng-ding-jia-zhai-pu-erh-tea-2009",
+   "title": "Cha Zhi Ji – Zheng Ding Jia Zhai Pu-erh Tea (2009) | 15-Year Aged Ancient Tree Raw Pu-erh from Yiwu",
+   "variants": {
+    "47548725821732": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "290.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2009 / Whole Cake (400g)"
+    }
+   }
+  },
+  "8915322863908": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "yixing-gong-hong-black-tea",
+   "title": "Cha Zhi Ji – Yixing Tribute Black Tea (Gong Hong)",
+   "variants": {
+    "47548747120932": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "47.00",
+     "qty": 4,
+     "status": "low_stock",
+     "stock_text": "Low stock: 4 left",
+     "title": "Box (100g)"
+    }
+   }
+  },
+  "8915324404004": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "lao-shu-dian-hong",
+   "title": "Lao Shu Dian Hong",
+   "variants": {
+    "47548749349156": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "60.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "Loose Leaf (75g)"
+    }
+   }
+  },
+  "8915325419812": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "ancient-tree-black-tea-sun-dried-dianhong-cha-zhi-ji",
+   "title": "Ancient Tree Black Tea – Sun-Dried Dianhong from Wild Old Trees | Cha Zhi Ji",
+   "variants": {
+    "47548751053092": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "72.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2019 / Whole Cake (200g)"
+    },
+    "50632385986852": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "58.00",
+     "qty": 7,
+     "status": "low_stock",
+     "stock_text": "Low stock: 7 left",
+     "title": "2024 / Whole Cake (200g)"
+    }
+   }
+  },
+  "8915325485348": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "fo-shou-oolong-buddhas-hand-cha-zhi-ji",
+   "title": "Fo Shou Oolong – Handcrafted Yongchun Buddha’s Hand Tea by Cha Zhi Ji",
+   "variants": {
+    "47548751118628": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "50.00",
+     "qty": 3,
+     "status": "low_stock",
+     "stock_text": "Low stock: 3 left",
+     "title": "Box (75g)"
+    }
+   }
+  },
+  "8915325681956": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "song-zhong-phoenix-dancong-cha-zhi-ji",
+   "title": "Song Zhong – Phoenix Dancong Oolong from Chaozhou | Cha Zhi Ji",
+   "variants": {
+    "47548752232740": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "65.00",
+     "qty": 3,
+     "status": "low_stock",
+     "stock_text": "Low stock: 3 left",
+     "title": "Box (100g)"
+    }
+   }
+  },
+  "8915326042404": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "nanshan-supreme-tieguanyin-charcoal-roasted",
+   "title": "Nanshan Supreme Tieguanyin – Wild-Grown Oolong Tea (Charcoal Roasted)",
+   "variants": {
+    "47548752789796": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "99.00",
+     "qty": 14,
+     "status": "in_stock",
+     "stock_text": "14 in stock",
+     "title": "Box (75g)"
+    }
+   }
+  },
+  "8915326239012": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "mingqian-shifeng-longjing-west-lake-cha-zhi-ji",
+   "title": "Mingqian Shifeng Longjing – First Flush West Lake Dragon Well Tea | Cha Zhi Ji",
+   "variants": {
+    "47548754624804": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "109.00",
+     "qty": 9,
+     "status": "low_stock",
+     "stock_text": "Low stock: 9 left",
+     "title": "Box (100g)"
+    }
+   }
+  },
+  "8943342354724": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-lao-cong-shui-xian-aged",
+   "title": "Cha Zhi Ji Wuyi Rock Tea – Lao Cong Shui Xian (老丛水仙, 5-Year Aged, 8g x 12 Sachets)",
+   "variants": {
+    "47674955530532": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "102.00",
+     "qty": 8,
+     "status": "low_stock",
+     "stock_text": "Low stock: 8 left",
+     "title": "Box (12pk x 8g)"
+    }
+   }
+  },
+  "8943343141156": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-da-hong-pao-aged",
+   "title": "Cha Zhi Ji Wuyi Rock Tea – Da Hong Pao (大红袍, 5-Year Aged, 8g x 12 Sachets)",
+   "variants": {
+    "47674952417572": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "109.00",
+     "qty": 8,
+     "status": "low_stock",
+     "stock_text": "Low stock: 8 left",
+     "title": "Box (12pk x 8g)"
+    }
+   }
+  },
+  "8966558056740": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-bai-sui-xiang",
+   "title": "Cha Zhi Ji Wuyi Rock Tea – Bai Sui Xiang (百岁香)",
+   "variants": {
+    "52509669851428": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "136.00",
+     "qty": 4,
+     "status": "low_stock",
+     "stock_text": "Low stock: 4 left",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8966558777636": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "wuyi-rock-tea-jin-liu-tiao",
+   "title": "Cha Zhi Ji Wuyi Rock Tea – Jin Liu Tiao (金柳条)",
+   "variants": {
+    "52509618831652": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "136.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "2025 / Box (75g)"
+    }
+   }
+  },
+  "8977222271268": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "yuandu-liu-bao-tea-2000s",
+   "title": "Cha Zhi Ji – Yuandu Liu Bao Tea (2000s) | Traditional Double-Steamed Vintage",
+   "variants": {
+    "47705635684644": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "109.00",
+     "qty": 5,
+     "status": "low_stock",
+     "stock_text": "Low stock: 5 left",
+     "title": "Bag (500g)"
+    }
+   }
+  },
+  "8977226924324": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "si-jin-qian-liu-bao-tea",
+   "title": "Cha Zhi Ji – Si Jin Qian Liu Bao Tea | Shen Cheong Legacy – 1970s & 2000s Editions",
+   "variants": {
+    "47705670058276": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "30.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2000s / Bag (100g)"
+    },
+    "47705670091044": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "220.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "2000s / Bag (1kg)"
+    },
+    "47705670123812": {
+     "available": false,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "265.00",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
+     "title": "1970s / Bag (100g)"
+    },
+    "47705670156580": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "2015.00",
+     "qty": 3,
+     "status": "low_stock",
+     "stock_text": "Low stock: 3 left",
+     "title": "1970s / Bag (1kg)"
+    }
+   }
+  },
+  "8998139461924": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "jing-zhi-shou-pu-erh-chang-yu-hao-2021-2022",
+   "title": "Cha Zhi Ji – Chang Yu Hao Jing Zhi Shou Pu-erh Tea – 2021 / 2022 Vintage",
+   "variants": {
+    "47757955531044": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "65.00",
+     "qty": 18,
+     "status": "in_stock",
+     "stock_text": "18 in stock",
+     "title": "2021 / Whole Cake (357g)"
+    },
+    "50159391834404": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "60.00",
+     "qty": 9,
+     "status": "low_stock",
+     "stock_text": "Low stock: 9 left",
+     "title": "2022 / Whole Cake (357g)"
+    }
+   }
+  },
+  "9002645979428": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "xiao-qing-gan-pu-erh",
+   "title": "Cha Zhi Ji Xiao Qing Gan Pu-erh Tea – Whole Mandarin Pu-erh",
+   "variants": {
+    "49897241641252": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "150.00",
+     "qty": 18,
+     "status": "in_stock",
+     "stock_text": "18 in stock",
+     "title": "Box (16 Balls)"
+    }
+   }
+  },
+  "9083077427492": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "yiwu-king-pu-erh-tea-2017",
+   "title": "Cha Zhi Ji – Yiwu King Pu-erh Tea (2017) | Ancient Tree Raw Pu-erh from Yiwu Core Region",
+   "variants": {
+    "48087629529380": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "540.00",
+     "qty": 20,
+     "status": "in_stock",
+     "stock_text": "20 in stock",
+     "title": "2017 / Whole Cake (400g)"
+    }
+   }
+  },
+  "9092635132196": {
+   "first_seen": "2026-11-15T18:35:09Z",
+   "handle": "ancient-tree-white-tea-cha-zhi-ji",
+   "title": "Cha Zhi Ji Ancient Tree White Tea – Yunnan Old-Growth White Tea",
+   "variants": {
+    "48102862651684": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "90.00",
+     "qty": 15,
+     "status": "in_stock",
+     "stock_text": "15 in stock",
+     "title": "2021 / Whole Cake (357g)"
+    },
+    "48102862717220": {
+     "available": true,
+     "first_seen": "2026-11-15T18:35:09Z",
+     "price": "102.00",
+     "qty": 17,
+     "status": "in_stock",
+     "stock_text": "17 in stock",
+     "title": "2020 / Whole Cake (357g)"
+    }
+   }
+  }
+ },
+ "section_id": "template--28650271244580__main",
+ "shop_url": "https://chazhijitea.com",
+ "telegram": {},
+ "version": 1
+}
