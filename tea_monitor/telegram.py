@@ -87,10 +87,12 @@ class TelegramClient:
         return self.call("getMe")
 
     def find_chat(self, title: str) -> dict | None:
-        """Ищет среди последних обновлений бота чат с нужным названием.
+        """Ищет чат для уведомлений среди последних обновлений бота.
 
         Когда бота добавляют в группу/канал, Telegram присылает обновление
         my_chat_member с названием чата. Обновления хранятся 24 часа.
+        Сначала ищется чат с нужным названием; если такого нет, а бот состоит
+        ровно в одной группе/канале, выбирается она (название может быть любым).
         """
         target = normalize_title(title)
         updates = self.call("getUpdates", {"timeout": 0}) or []
@@ -112,18 +114,29 @@ class TelegramClient:
                 entry["chat"], entry["index"] = chat, index
                 if key == "my_chat_member":
                     entry["status"] = (obj.get("new_chat_member") or {}).get("status")
-        candidates = [
+        def resolve(chat_id: int) -> int:
+            seen = set()
+            while chat_id in migrations and chat_id not in seen:
+                seen.add(chat_id)
+                chat_id = migrations[chat_id]
+            return chat_id
+
+        active = [
             entry for entry in chats.values()
-            if normalize_title(entry["chat"].get("title")) == target
+            if entry["chat"].get("type") in ("group", "supergroup", "channel")
             and entry["status"] not in ("left", "kicked")
         ]
-        if not candidates:
+        by_title = [e for e in active if normalize_title(e["chat"].get("title")) == target]
+        if by_title:
+            pool = by_title
+        elif len({resolve(e["chat"]["id"]) for e in active}) == 1:
+            pool = active
+        else:
             return None
-        chat = dict(max(candidates, key=lambda e: e["index"])["chat"])
-        seen = set()
-        while chat["id"] in migrations and chat["id"] not in seen:
-            seen.add(chat["id"])
-            chat = {**chat, "id": migrations[chat["id"]], "type": "supergroup"}
+        chat = dict(max(pool, key=lambda e: e["index"])["chat"])
+        final_id = resolve(chat["id"])
+        if final_id != chat["id"]:
+            chat.update(id=final_id, type="supergroup")
         return chat
 
     def send_message(self, chat_id: int | str, text: str, preview_url: str | None = None) -> int | str:

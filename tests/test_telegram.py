@@ -67,8 +67,34 @@ class TelegramTest(unittest.TestCase):
         tg, _, _ = self.make(ok(updates))
         self.assertEqual(tg.find_chat("Чайный движ")["id"], -1005)
 
+    def test_single_group_with_other_title_is_used(self):
+        updates = [
+            {"update_id": 1, "message": {"chat": {"id": 77, "type": "private", "first_name": "A"},
+                                          "text": "/start"}},
+            member_update(2, -7, "Cha Dao"),
+        ]
+        tg, _, _ = self.make(ok(updates))
+        self.assertEqual(tg.find_chat("Чайный движ")["id"], -7)
+
+    def test_single_group_after_migration_is_used(self):
+        updates = [
+            member_update(1, -5, "Cha Dao"),
+            {"update_id": 2, "message": {"chat": {"id": -5, "title": "Cha Dao", "type": "group"},
+                                          "migrate_to_chat_id": -1005}},
+            {"update_id": 3, "message": {"chat": {"id": -1005, "title": "Cha Dao", "type": "supergroup"},
+                                          "migrate_from_chat_id": -5}},
+        ]
+        tg, _, _ = self.make(ok(updates))
+        self.assertEqual(tg.find_chat("Чайный движ")["id"], -1005)
+
     def test_find_chat_none(self):
-        tg, _, _ = self.make(ok([member_update(1, -1, "Другой")]))
+        tg, _, _ = self.make(ok([]))
+        self.assertIsNone(tg.find_chat("Чайный движ"))
+        # Несколько групп, и ни одна не называется как нужно — не угадываем.
+        tg, _, _ = self.make(ok([member_update(1, -1, "Другой"), member_update(2, -2, "Третий")]))
+        self.assertIsNone(tg.find_chat("Чайный движ"))
+        # Бота удалили из единственной группы.
+        tg, _, _ = self.make(ok([member_update(1, -1, "Cha Dao", status="left")]))
         self.assertIsNone(tg.find_chat("Чайный движ"))
 
     def test_send_message_payload(self):
