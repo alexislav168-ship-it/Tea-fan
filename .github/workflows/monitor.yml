@@ -59,7 +59,10 @@ jobs:
               exit 0
             fi
             git fetch -q --depth=50 origin "${GITHUB_REF_NAME}"
-            git rebase -q FETCH_HEAD
+            if ! git rebase -q FETCH_HEAD; then
+              git rebase --abort
+              break
+            fi
           done
           echo "::error::Не удалось сохранить состояние в репозиторий"
           exit 1
