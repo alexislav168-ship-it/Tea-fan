@@ -1,0 +1,10 @@
+{
+  "shop_url": "https://chazhijitea.com",
+  "tea_collections": ["all-teas"],
+  "tea_product_types": ["Tea"],
+  "currency": "MYR",
+  "telegram_chat_title": "Чайный движ",
+  "sample_keywords": ["pocket", "sample", "tester", "trial", "taster", "single ball", "пробник"],
+  "sample_max_grams": 30,
+  "request_delay_seconds": 1.2
+}

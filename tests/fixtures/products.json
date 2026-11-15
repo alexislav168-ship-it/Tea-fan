@@ -1,0 +1,535 @@
+{
+ "products": [
+  {
+   "id": 8977226924324,
+   "title": "Cha Zhi Ji – Si Jin Qian Liu Bao Tea | Shen Cheong Legacy – 1970s & 2000s Editions",
+   "handle": "si-jin-qian-liu-bao-tea",
+   "product_type": "Tea",
+   "options": [
+    {
+     "name": "Year",
+     "position": 1,
+     "values": [
+      "2000s",
+      "1970s"
+     ]
+    },
+    {
+     "name": "Size",
+     "position": 2,
+     "values": [
+      "Pocket-sized (10g)",
+      "Bag (100g)",
+      "Bag (1kg)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 47885785334052,
+     "title": "2000s / Pocket-sized (10g)",
+     "option1": "2000s",
+     "option2": "Pocket-sized (10g)",
+     "option3": null,
+     "price": "5.00",
+     "available": false
+    },
+    {
+     "id": 47705670058276,
+     "title": "2000s / Bag (100g)",
+     "option1": "2000s",
+     "option2": "Bag (100g)",
+     "option3": null,
+     "price": "30.00",
+     "available": false
+    },
+    {
+     "id": 47705670091044,
+     "title": "2000s / Bag (1kg)",
+     "option1": "2000s",
+     "option2": "Bag (1kg)",
+     "option3": null,
+     "price": "220.00",
+     "available": false
+    },
+    {
+     "id": 47885785366820,
+     "title": "1970s / Pocket-sized (10g)",
+     "option1": "1970s",
+     "option2": "Pocket-sized (10g)",
+     "option3": null,
+     "price": "30.00",
+     "available": false
+    },
+    {
+     "id": 47705670123812,
+     "title": "1970s / Bag (100g)",
+     "option1": "1970s",
+     "option2": "Bag (100g)",
+     "option3": null,
+     "price": "265.00",
+     "available": false
+    },
+    {
+     "id": 47705670156580,
+     "title": "1970s / Bag (1kg)",
+     "option1": "1970s",
+     "option2": "Bag (1kg)",
+     "option3": null,
+     "price": "2015.00",
+     "available": true
+    }
+   ]
+  },
+  {
+   "id": 8998139461924,
+   "title": "Cha Zhi Ji – Chang Yu Hao Jing Zhi Shou Pu-erh Tea – 2021 / 2022 Vintage",
+   "handle": "jing-zhi-shou-pu-erh-chang-yu-hao-2021-2022",
+   "product_type": "Tea",
+   "options": [
+    {
+     "name": "Year",
+     "position": 1,
+     "values": [
+      "2022",
+      "2021"
+     ]
+    },
+    {
+     "name": "Size",
+     "position": 2,
+     "values": [
+      "Pocket-sized (10g)",
+      "Whole Cake (357g)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 50159391801636,
+     "title": "2022 / Pocket-sized (10g)",
+     "option1": "2022",
+     "option2": "Pocket-sized (10g)",
+     "option3": null,
+     "price": "6.00",
+     "available": false
+    },
+    {
+     "id": 50159391834404,
+     "title": "2022 / Whole Cake (357g)",
+     "option1": "2022",
+     "option2": "Whole Cake (357g)",
+     "option3": null,
+     "price": "60.00",
+     "available": true
+    },
+    {
+     "id": 47885555138852,
+     "title": "2021 / Pocket-sized (10g)",
+     "option1": "2021",
+     "option2": "Pocket-sized (10g)",
+     "option3": null,
+     "price": "6.50",
+     "available": false
+    },
+    {
+     "id": 47757955531044,
+     "title": "2021 / Whole Cake (357g)",
+     "option1": "2021",
+     "option2": "Whole Cake (357g)",
+     "option3": null,
+     "price": "65.00",
+     "available": true
+    }
+   ]
+  },
+  {
+   "id": 8915324404004,
+   "title": "Lao Shu Dian Hong",
+   "handle": "lao-shu-dian-hong",
+   "product_type": "Tea",
+   "options": [
+    {
+     "name": "Size",
+     "position": 1,
+     "values": [
+      "Pocket-sized (10g)",
+      "Loose Leaf (75g)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 47885717373220,
+     "title": "Pocket-sized (10g)",
+     "option1": "Pocket-sized (10g)",
+     "option2": null,
+     "option3": null,
+     "price": "10.00",
+     "available": false
+    },
+    {
+     "id": 47548749349156,
+     "title": "Loose Leaf (75g)",
+     "option1": "Loose Leaf (75g)",
+     "option2": null,
+     "option3": null,
+     "price": "60.00",
+     "available": false
+    }
+   ]
+  },
+  {
+   "id": 8888735924516,
+   "title": "Cha Zhi Ji – Yiwu Zhengshan Raw Pu-erh Tea (2008 Vintage)",
+   "handle": "yiwu-zhengshan-pu-erh-2008",
+   "product_type": "Tea",
+   "options": [
+    {
+     "name": "Size",
+     "position": 1,
+     "values": [
+      "Pocket-sized (10g)",
+      "Whole Cake (400g)"
+     ]
+    },
+    {
+     "name": "Age of Tree",
+     "position": 2,
+     "values": [
+      "Old Trunk (~300 years)",
+      "Young Trunk (~80 years)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 47885819085092,
+     "title": "Pocket-sized (10g) / Old Trunk (~300 years)",
+     "option1": "Pocket-sized (10g)",
+     "option2": "Old Trunk (~300 years)",
+     "option3": null,
+     "price": "11.00",
+     "available": false
+    },
+    {
+     "id": 47885819117860,
+     "title": "Pocket-sized (10g) / Young Trunk (~80 years)",
+     "option1": "Pocket-sized (10g)",
+     "option2": "Young Trunk (~80 years)",
+     "option3": null,
+     "price": "6.00",
+     "available": false
+    },
+    {
+     "id": 47516208267556,
+     "title": "Whole Cake (400g) / Old Trunk (~300 years)",
+     "option1": "Whole Cake (400g)",
+     "option2": "Old Trunk (~300 years)",
+     "option3": null,
+     "price": "371.00",
+     "available": true
+    },
+    {
+     "id": 47801211420964,
+     "title": "Whole Cake (400g) / Young Trunk (~80 years)",
+     "option1": "Whole Cake (400g)",
+     "option2": "Young Trunk (~80 years)",
+     "option3": null,
+     "price": "169.00",
+     "available": true
+    }
+   ]
+  },
+  {
+   "id": 8943343141156,
+   "title": "Cha Zhi Ji Wuyi Rock Tea – Da Hong Pao (大红袍, 5-Year Aged, 8g x 12 Sachets)",
+   "handle": "wuyi-rock-tea-da-hong-pao-aged",
+   "product_type": "Tea",
+   "options": [
+    {
+     "name": "Size",
+     "position": 1,
+     "values": [
+      "Pocket-sized (8g)",
+      "Box (12pk x 8g)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 47885475578148,
+     "title": "Pocket-sized (8g)",
+     "option1": "Pocket-sized (8g)",
+     "option2": null,
+     "option3": null,
+     "price": "11.00",
+     "available": false
+    },
+    {
+     "id": 47674952417572,
+     "title": "Box (12pk x 8g)",
+     "option1": "Box (12pk x 8g)",
+     "option2": null,
+     "option3": null,
+     "price": "109.00",
+     "available": true
+    }
+   ]
+  },
+  {
+   "id": 9002645979428,
+   "title": "Cha Zhi Ji Xiao Qing Gan Pu-erh Tea – Whole Mandarin Pu-erh",
+   "handle": "xiao-qing-gan-pu-erh",
+   "product_type": "Tea",
+   "options": [
+    {
+     "name": "Size",
+     "position": 1,
+     "values": [
+      "Single Ball",
+      "Box (16 Balls)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 49897241608484,
+     "title": "Single Ball",
+     "option1": "Single Ball",
+     "option2": null,
+     "option3": null,
+     "price": "12.00",
+     "available": false
+    },
+    {
+     "id": 49897241641252,
+     "title": "Box (16 Balls)",
+     "option1": "Box (16 Balls)",
+     "option2": null,
+     "option3": null,
+     "price": "150.00",
+     "available": true
+    }
+   ]
+  },
+  {
+   "id": 8873697280292,
+   "title": "Whole Leaf Pyramid Tea Bag – Golden Series (Black Tea) | Cha Zhi Ji",
+   "handle": "black-tea-tea-bag-golden-series-cha-zhi-ji",
+   "product_type": "Tea",
+   "options": [
+    {
+     "name": "Size",
+     "position": 1,
+     "values": [
+      "Box (2g x 10 pack)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 47516133523748,
+     "title": "Box (2g x 10 pack)",
+     "option1": "Box (2g x 10 pack)",
+     "option2": null,
+     "option3": null,
+     "price": "11.00",
+     "available": true
+    }
+   ]
+  },
+  {
+   "id": 10071683727652,
+   "title": "Gao Ma Ming Zhu Jin Hua Hei Cha",
+   "handle": "gao-ma-ming-zhu-jin-hua-hei-cha",
+   "product_type": "Tea",
+   "options": [
+    {
+     "name": "Year",
+     "position": 1,
+     "values": [
+      "2019",
+      "2023"
+     ]
+    },
+    {
+     "name": "Size",
+     "position": 2,
+     "values": [
+      "Box (14pcs x 8g)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 50632366194980,
+     "title": "2019 / Box (14pcs x 8g)",
+     "option1": "2019",
+     "option2": "Box (14pcs x 8g)",
+     "option3": null,
+     "price": "62.00",
+     "available": false
+    },
+    {
+     "id": 56016946626852,
+     "title": "2023 / Box (14pcs x 8g)",
+     "option1": "2023",
+     "option2": "Box (14pcs x 8g)",
+     "option3": null,
+     "price": "62.00",
+     "available": true
+    }
+   ]
+  },
+  {
+   "id": 10103432610084,
+   "title": "SSHC Liu Bao Tea – 1970s “Betel Nut Double Star” (125g, Purple Clay Jar)",
+   "handle": "sshc-1970s-liu-bao-tea-purple-clay-jar-125g",
+   "product_type": "Tea",
+   "options": [
+    {
+     "name": "Title",
+     "position": 1,
+     "values": [
+      "Default Title"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 50770557993252,
+     "title": "Default Title",
+     "option1": "Default Title",
+     "option2": null,
+     "option3": null,
+     "price": "3000.00",
+     "available": true
+    }
+   ]
+  },
+  {
+   "id": 8815015526692,
+   "title": "Cha Zhi Ji – Qian Gu Ling Ya Raw Pu-erh Tea (Ancient Spirit Buds)",
+   "handle": "qian-gu-ling-ya-pu-erh-tea",
+   "product_type": "Tea",
+   "options": [
+    {
+     "name": "Year",
+     "position": 1,
+     "values": [
+      "2024",
+      "2023",
+      "2022",
+      "2021",
+      "2020",
+      "2019",
+      "2018",
+      "2017",
+      "2016",
+      "2015"
+     ]
+    },
+    {
+     "name": "Size",
+     "position": 2,
+     "values": [
+      "Whole Cake (400g)"
+     ]
+    }
+   ],
+   "variants": [
+    {
+     "id": 50787816440100,
+     "title": "2024 / Whole Cake (400g)",
+     "option1": "2024",
+     "option2": "Whole Cake (400g)",
+     "option3": null,
+     "price": "490.00",
+     "available": true
+    },
+    {
+     "id": 47773656154404,
+     "title": "2023 / Whole Cake (400g)",
+     "option1": "2023",
+     "option2": "Whole Cake (400g)",
+     "option3": null,
+     "price": "515.00",
+     "available": true
+    },
+    {
+     "id": 47548772647204,
+     "title": "2022 / Whole Cake (400g)",
+     "option1": "2022",
+     "option2": "Whole Cake (400g)",
+     "option3": null,
+     "price": "540.00",
+     "available": true
+    },
+    {
+     "id": 47548772614436,
+     "title": "2021 / Whole Cake (400g)",
+     "option1": "2021",
+     "option2": "Whole Cake (400g)",
+     "option3": null,
+     "price": "565.00",
+     "available": true
+    },
+    {
+     "id": 47548772581668,
+     "title": "2020 / Whole Cake (400g)",
+     "option1": "2020",
+     "option2": "Whole Cake (400g)",
+     "option3": null,
+     "price": "590.00",
+     "available": true
+    },
+    {
+     "id": 47548772548900,
+     "title": "2019 / Whole Cake (400g)",
+     "option1": "2019",
+     "option2": "Whole Cake (400g)",
+     "option3": null,
+     "price": "615.00",
+     "available": true
+    },
+    {
+     "id": 47548772516132,
+     "title": "2018 / Whole Cake (400g)",
+     "option1": "2018",
+     "option2": "Whole Cake (400g)",
+     "option3": null,
+     "price": "675.00",
+     "available": false
+    },
+    {
+     "id": 47548772483364,
+     "title": "2017 / Whole Cake (400g)",
+     "option1": "2017",
+     "option2": "Whole Cake (400g)",
+     "option3": null,
+     "price": "700.00",
+     "available": false
+    },
+    {
+     "id": 47548772450596,
+     "title": "2016 / Whole Cake (400g)",
+     "option1": "2016",
+     "option2": "Whole Cake (400g)",
+     "option3": null,
+     "price": "725.00",
+     "available": false
+    },
+    {
+     "id": 47516202991908,
+     "title": "2015 / Whole Cake (400g)",
+     "option1": "2015",
+     "option2": "Whole Cake (400g)",
+     "option3": null,
+     "price": "750.00",
+     "available": true
+    }
+   ]
+  }
+ ]
+}
