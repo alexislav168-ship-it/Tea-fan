@@ -880,9 +880,9 @@
      "available": true,
      "first_seen": "2026-11-15T18:35:09Z",
      "price": "100.00",
-     "qty": 15,
+     "qty": 14,
      "status": "in_stock",
-     "stock_text": "15 in stock",
+     "stock_text": "14 in stock",
      "title": "2017 / Whole Cake (357g)"
     },
     "47548785852708": {
@@ -996,9 +996,9 @@
      "available": true,
      "first_seen": "2026-11-15T18:35:09Z",
      "price": "58.00",
-     "qty": 7,
+     "qty": 6,
      "status": "low_stock",
-     "stock_text": "Low stock: 7 left",
+     "stock_text": "Low stock: 6 left",
      "title": "2024 / Whole Cake (200g)"
     }
    }
@@ -1028,9 +1028,9 @@
      "available": true,
      "first_seen": "2026-11-15T18:35:09Z",
      "price": "65.00",
-     "qty": 3,
+     "qty": 2,
      "status": "low_stock",
-     "stock_text": "Low stock: 3 left",
+     "stock_text": "Low stock: 2 left",
      "title": "Box (100g)"
     }
    }
