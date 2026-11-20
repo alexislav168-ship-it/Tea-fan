@@ -645,9 +645,9 @@
      "available": true,
      "first_seen": "2026-11-15T18:35:09Z",
      "price": "199.00",
-     "qty": 7,
+     "qty": 5,
      "status": "low_stock",
-     "stock_text": "Low stock: 7 left",
+     "stock_text": "Low stock: 5 left",
      "title": "Bag (150g)"
     }
    }
