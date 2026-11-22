@@ -610,12 +610,12 @@
    "title": "Cha Zhi Ji – Yuan Bao: Woody-Aged Liu Bao Tea (2000s) | Malaysian Vault Collection",
    "variants": {
     "47516210004260": {
-     "available": true,
+     "available": false,
      "first_seen": "2026-11-15T18:35:09Z",
      "price": "86.00",
-     "qty": 1,
-     "status": "low_stock",
-     "stock_text": "Low stock: 1 left",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
      "title": "Box (150g)"
     }
    }
@@ -661,9 +661,9 @@
      "available": true,
      "first_seen": "2026-11-15T18:35:09Z",
      "price": "90.00",
-     "qty": 4,
+     "qty": 3,
      "status": "low_stock",
-     "stock_text": "Low stock: 4 left",
+     "stock_text": "Low stock: 3 left",
      "title": "Box (150g)"
     }
    }
@@ -791,9 +791,9 @@
      "available": true,
      "first_seen": "2026-11-15T18:35:09Z",
      "price": "371.00",
-     "qty": 7,
+     "qty": 6,
      "status": "low_stock",
-     "stock_text": "Low stock: 7 left",
+     "stock_text": "Low stock: 6 left",
      "title": "Whole Cake (400g) / Old Trunk (~300 years)"
     },
     "47801211420964": {
@@ -848,9 +848,9 @@
      "available": true,
      "first_seen": "2026-11-15T18:35:09Z",
      "price": "203.00",
-     "qty": 6,
+     "qty": 5,
      "status": "low_stock",
-     "stock_text": "Low stock: 6 left",
+     "stock_text": "Low stock: 5 left",
      "title": "Whole Cake (200g)"
     }
    }
@@ -1140,9 +1140,9 @@
      "available": true,
      "first_seen": "2026-11-15T18:35:09Z",
      "price": "109.00",
-     "qty": 5,
+     "qty": 4,
      "status": "low_stock",
-     "stock_text": "Low stock: 5 left",
+     "stock_text": "Low stock: 4 left",
      "title": "Bag (500g)"
     }
    }
