@@ -97,12 +97,12 @@
    "title": "[Cha Zhi Ji] Pu Tian Gong Qing (普天共庆) – Aged Liu Bao Tea in Purple Clay Jar | 1950s Style",
    "variants": {
     "50760684732708": {
-     "available": true,
+     "available": false,
      "first_seen": "2026-11-15T18:35:09Z",
      "price": "6714.00",
-     "qty": 1,
-     "status": "low_stock",
-     "stock_text": "Low stock: 1 left",
+     "qty": 0,
+     "status": "out_of_stock",
+     "stock_text": "Out of stock",
      "title": "Default Title"
     }
    }
